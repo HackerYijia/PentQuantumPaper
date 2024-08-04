@@ -37,9 +37,12 @@ In an antigravity field, quantum particles might experience reshaping or alterin
 
 The quantum penetration effect can be described by extending the Schrödinger equation. In an antigravity field, the potential energy might be negative, so we construct the following modified Schrödinger equation:
 
-\[ i\hbar \frac{\partial \psi}{\partial t} = \left(-\frac{\hbar^2}{2m} \nabla^2 + V_{rg}\right) \psi \]
+\[
+i\hbar \frac{\partial \psi}{\partial t} = \left(-\frac{\hbar^2}{2m} \nabla^2 + V_{rg}\right) \psi
+\]
 
-where \( V_{rg} \) is the antigravity potential. This equation describes the behavior of quantum particles in an antigravity field. By solving this equation, we can obtain the wave modes and behaviors of particles in the antigravity field.
+where \( V_{rg} \) denotes the antigravity potential. This formulation allows us to study the impact of antigravity on quantum particles and uncover their wave functions and dynamics.
+
 
 **Three-Dimensional Manifestation**
 
